@@ -102,10 +102,24 @@ IaC упрощает масштабирование инфраструктуры
 
 
 ## Задание 4
-В этом задании вы будете работать с Ad-hoc коммандами.
-
-Выполните действия и приложите скриншоты запуска команд.
+В этом задании вы будете работать с Ad-hoc коммандам.
 
 Установите на управляемых хостах любой пакет, которого нет.
 Проверьте статус любого, присутствующего на управляемой машине, сервиса.
 Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
+
+
+![Снимок экрана (588)](https://github.com/user-attachments/assets/50e8357b-f246-401f-83f6-601fb57a6362)
+
+![Снимок экрана (589)](https://github.com/user-attachments/assets/640b569d-7f6a-4635-92c4-e4c2937c4f77)
+
+![Снимок экрана (590)](https://github.com/user-attachments/assets/e0eab6e9-8f3f-4c9f-9ade-db7059491641)
+
+![Снимок экрана (591)](https://github.com/user-attachments/assets/15c6079e-5812-4d7a-8de4-bd96c18b6abf)
+
+![Снимок экрана (592)](https://github.com/user-attachments/assets/f5ada30e-60af-476d-b4c4-304119d82f6f)
+
+![Снимок экрана (594)](https://github.com/user-attachments/assets/0e90e743-7ca1-4cc7-9322-878412c12b6b)
+
+![Снимок экрана (595)](https://github.com/user-attachments/assets/ae850049-c7b7-4e53-a99e-28d4b03763ce)
+
