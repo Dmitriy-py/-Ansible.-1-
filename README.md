@@ -44,3 +44,19 @@ IaC упрощает масштабирование инфраструктуры
 Настройте управляемые виртуальные машины, не меньше двух.
 Создайте файл inventory с созданными вами ВМ.
 Проверьте доступность хостов с помощью модуля ping.
+
+![Снимок экрана (584)](https://github.com/user-attachments/assets/e0bfda36-52d5-4ddd-98a0-a6ed59dc86ae)
+
+![Снимок экрана (585)](https://github.com/user-attachments/assets/2cae4b5b-47a1-4c7f-ade0-1d8b408f5ba8)
+
+![Снимок экрана (586)](https://github.com/user-attachments/assets/2095670b-44c7-41e2-bc07-fac80056bf79)
+
+![Снимок экрана (587)](https://github.com/user-attachments/assets/9c50dc6f-2256-4171-969d-9f12770b57cd)
+
+
+## Задание 3
+Ответьте на вопрос в свободной форме.
+
+Какая разница между параметрами forks и serial?
+
+
